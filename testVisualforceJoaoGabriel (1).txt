@@ -1,0 +1,21 @@
+Requisitos:
+1. Entrega da atividade no prazo definido (1pt)
+2. Utilização do que você entendeu de metodologia Scrum (3pt)
+3. Utilização de GIT local e remoto (1pt)
+4. Organização do código, utilização de boas práticas(clean code) e entrega de funcionalidade (2pt)
+5. Código em inglês (1pt)
+6. Frontend (1pt)
+7. Responsividade (1pt)
+
+Atividade:
+- Faça o desenvolvimento na developer edition do projeto 2, a demanda exige um gerenciamento simplificado de contas.
+- Crie um site dentro do seu domínio Salesforce e utilize quantas visualforce pages forem necessárias
+- Todos os alertas devem ser bonitos, sendo necessário o uso de um plugin javascript ou criação de modais pelo html
+- Crie uma página inicial para seu site contendo as ações de criar conta, visualizar as 10 últimas contas criadas e dentro dessa visualização deve ser possível atualizar qualquer uma dessas 10 e apagá-las também de forma individual
+
+
+---SPRINTS---
+
+1. Criação do site com domínio público e linkagem com gitHub 	[01/03/23]
+2. Criar escopo da homePage com HTML [03/03/23]
+3. Finalizar estilização da homePage com CSS[06/03/23]
