@@ -1,9 +1,15 @@
 <apex:page>
-<!-- Begin Default Content REMOVE THIS -->
-<h1>pimba</h1>
-<h2>
-    jp
-</h2>
-This is your new Page
-<!-- End Default Content REMOVE THIS -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Document</title>
+</head>
+<body>
+    <h1>
+    test
+    </h1>
+</body>
+</html>
 </apex:page>
