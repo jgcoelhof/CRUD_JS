@@ -8,10 +8,14 @@ Requisitos:
 7. Responsividade (1pt)
 
 Atividade:
-- Faça o desenvolvimento na developer edition do projeto 2, a demanda exige um gerenciamento simplificado de contas.
+- Faça o desenvolvimento na developer edition do projeto 2, a demanda exige um gerenciamento simplificado 
+de contas.
 - Crie um site dentro do seu domínio Salesforce e utilize quantas visualforce pages forem necessárias
-- Todos os alertas devem ser bonitos, sendo necessário o uso de um plugin javascript ou criação de modais pelo html
-- Crie uma página inicial para seu site contendo as ações de criar conta, visualizar as 10 últimas contas criadas e dentro dessa visualização deve ser possível atualizar qualquer uma dessas 10 e apagá-las também de forma individual
+- Todos os alertas devem ser bonitos, sendo necessário o uso de um plugin javascript ou criação de modais pelo
+ html
+- Crie uma página inicial para seu site contendo as ações de criar conta, visualizar as 10 últimas contas 
+criadas e dentro dessa visualização deve ser possível atualizar qualquer uma dessas 10 e apagá-las também de
+ forma individual
 
 
 ---SPRINTS---
