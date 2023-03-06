@@ -20,6 +20,10 @@ criadas e dentro dessa visualização deve ser possível atualizar qualquer uma 
 
 ---SPRINTS---
 
-1. Criação do site com domínio público e linkagem com gitHub 	[01/03/23]
-2. Criar escopo da homePage com HTML [03/03/23]
-3. Finalizar estilização da homePage com CSS[06/03/23]
+1. Criação do site com domínio público e linkagem com gitHub [01/03/23]✔️
+2. Criar escopo da homePage com HTML [03/03/23]✔️
+3. Finalizar estilização da homePage com CSS[06/03/23]✔️
+
+
+
+
